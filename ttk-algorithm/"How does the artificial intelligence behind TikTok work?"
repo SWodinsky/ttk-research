@@ -1,0 +1,11 @@
+SOURCE:  https://zhuanlan.zhihu.com/p/510159110
+
+KEY TAKEAWAYS (translated): 
+
+1. TikTok’s secret weapon for reading people’s thoughts is:
+    a) Algorithm experiment platform: Engineers conduct experiments on a mixture of multiple machine learning algorithms such as logistic regression and convolutional neural networks, and then run tests (A/B tests) and make adjustments.
+    b) Extensive classification and labeling: The model is based on user engagement, such as watch time, swipes, and commonly likes or shares (what people do is often a subconscious reflection). The number of user features, vectors, and categories exceeds that of most recommender systems in the world, and they are growing all the time.
+    c) User feedback engine: Update the model after retrieving user feedback for multiple iterations. The experience management platform is built on top of this engine and ultimately improves upon these flaws and suggestions.
+
+To solve the cold-start problem in recommendations, a recall strategy is used. It's about selecting thousands of candidates from tens of millions of videos that have proven to be popular and of high quality.
+At the same time, some AI work has been moved to the client for ultra-fast responses. This includes real-time training, modeling and inference on the device. The client uses machine learning frameworks such as TensorFlow Lite or ByteNN.
