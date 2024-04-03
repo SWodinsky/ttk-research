@@ -1,0 +1,15 @@
+SOURCE:  https://zhuanlan.zhihu.com/p/489100877
+
+KEY TAKEAWAYS (translated): 
+
+1. Under TikTok's design, it will arrange a traffic pool for each video uploaded to the platform. The traffic pool will perform stepped exposure based on data feedback. Therefore, when the video is first released, it is necessary to increase the likes, reposts, comments and other data as much as possible.
+   Every user who uses TikTok is essentially subjective. For example, if a video is placed in front of them, they will subconsciously judge whether they want to click on it and watch it through the cover and video description. This decentralized mechanism is like this. Its existence makes the videos on the entire platform absolutely fair.
+
+
+2. "TikTok's distribution mechanism is in order: 
+      a) Machine deduplication mechanism: Simply put, the deduplication mechanism is a mechanism set up by the platform to protect originality and prevent theft, transfer, etc. If the video content you publish overlaps with other people’s videos, it will affect the exposure rate.
+      b) Review mechanism: Generally, video content is judged by machine review. The purpose of manual review is to process content that cannot be judged by machines. The review direction is usually the content and title of the video, mainly reviewing whether there is sensitive information, whether there is any attempt to divert the platform, and whether the content violates the TikTok platform rules.
+      c) Feature recognition: TikTok has big data push, which will detect the type and content that each user pays attention to to make content recommendations. Therefore, after the uploaded video passes the review, TikTok’s internal system will classify the video according to its content and title, and then match it to relevant user groups for push.
+      d) Human intervention: Human intervention, as the name suggests, is to help machines judge videos that machines cannot judge, which is similar to the meaning of human and machine in the review mechanism. As for why the human intervention mechanism is introduced, it is essentially to make up for the loopholes that the machine cannot fill, because the machine only uses data to judge the video and cannot achieve comprehensive depth prediction. In order to reduce such defects, it is There was human intervention.
+
+
