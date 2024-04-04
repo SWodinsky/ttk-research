@@ -17,6 +17,19 @@
          - Customer Complaint Rate (CCR) 
          - 24-hour Response Rate
 
+These factors are identical to the rating system used for scoring sellers based in Mainland China operating domestically (reaching Chinese shoppers) _and_ cross-border (reaching American shoppers).
+While American-facing documentation doesn't list the weight each of these factors has in determining a seller's overall SPS, the Chinese documentation goes into further detail--the one difference is that these scores are multiplied by 20, giving a total SPS of 100 instead of 5.
+
+These same documents also state that each merchant starts with a baseline score of 50/100. Assuming the rules are analogous for American sellers, each one would start with a 2.5/5 rating -- based on the same formula as its Chinese counterpart, just multiplied by 0.025. 
+   ** IMPORTANT NOTE: My own formula doesn't *exactly* add up with the math in TikTok's American facing docs. ie: 
+            -TikTok stated that an SPS in the top 80th precentile is 4/5.
+            -My own equation (80 * 0.025) rounds the top 80th percentile to 4.5/5. 
+      For the sake of my hypothesis (which again, shouldn't be taken for gospel!!!!!!!) I'm just assuming a margin of error of ~0.5 in the final scores I calculate.
+
+
+
+
+
 
 
 
