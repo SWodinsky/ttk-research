@@ -1,6 +1,7 @@
 ** THIS IS ALL MY OWN THEORY / RESEARCH. PLEASE DON'T TAKE ANY OF THIS FOR GOSPEL. SOURCES ARE LISTED AT THE END OF THE DOC**
 
-1. In docs for American sellers targeting US audiences, TikTok notes that Shop Performance Score (SPS) is a score given out of 5. A seller with SPS = 4/5 is performing better than 80% of other sellers targeting the US, and so on. 
+1. 
+In docs for American sellers targeting US audiences, TikTok notes that Shop Performance Score (SPS) is a score given out of 5. A seller with SPS = 4/5 is performing better than 80% of other sellers targeting the US, and so on. 
    This calculation, per TikTok's docs, are based on 3 factors of a shopper's's overall experience with a given seller during the past 30 days:
       a. "Product Satisfaction"
       b. "Fulfillment and Logistics"
@@ -20,13 +21,18 @@
 These factors are identical to the rating system used for scoring sellers based in Mainland China operating domestically (reaching Chinese shoppers) _and_ cross-border (reaching American shoppers).
 While American-facing documentation doesn't list the weight each of these factors has in determining a seller's overall SPS, the Chinese documentation goes into further detail--the one difference is that these scores are multiplied by 20, giving a total SPS of 100 instead of 5.
 
-These same documents also state that each merchant starts with a baseline score of 50/100. Assuming the rules are analogous for American sellers, each one would start with a 2.5/5 rating -- based on the same formula as its Chinese counterpart, just multiplied by 0.025. 
+These same documents also state that each merchant starts with a baseline score of 50/100.
+
+Assuming the formulas are analogous for American sellers, each one would start with a 2.5/5 rating -- based on the same formula as its Chinese counterpart, just multiplied by 0.025. 
    ** IMPORTANT NOTE: My own formula doesn't *exactly* add up with the math in TikTok's American facing docs. ie: 
             -TikTok stated that an SPS in the top 80th precentile is 4/5.
             -My own equation (80 * 0.025) rounds the top 80th percentile to 4.5/5. 
       For the sake of my hypothesis (which again, shouldn't be taken for gospel!!!!!!!) I'm just assuming a margin of error of ~0.5 in the final scores I calculate.
 
-
+2. 
+While the weight of each metric isn't listed in American-facing documents, TikTok's Chinese-facing documents list the following forumla: 
+      
+      SPS = [(Product Satisfaction Score) + (Fulfillment and Logistics Score) + (Customer Service Score)]
 
 
 
@@ -49,6 +55,7 @@ I'm also assuming the score calculation is analogous to Douyin's store rating mo
     * https://zhuanlan.zhihu.com/p/655276506
     * https://school.jinritemai.com/doudian/web/article/aHMSpgQDfmxK
     * https://school.jinritemai.com/doudian/web/article/103956
+    * https://school.jinritemai.com/doudian/web/article/aHxgQJBh9zZ6?cjSiteCode=ecop
     * https://zhuanlan.zhihu.com/p/475247699
     * https://zhuanlan.zhihu.com/p/687572342
     * https://zhuanlan.zhihu.com/p/183775003
